@@ -4,10 +4,9 @@
 
 Team OpenLarp - BrainHack TIL-AI 2026 by DSTA Singapore
 
-[![Qualifier](https://img.shields.io/badge/qualifier-2nd_place-gold?style=flat-square)]()
 [![Score](https://img.shields.io/badge/qualifier_combined-0.881-blue?style=flat-square)]()
 [![Finals](https://img.shields.io/badge/finals_score-127.5-brightgreen?style=flat-square)]()
-[![Track](https://img.shields.io/badge/track-novice-yellow?style=flat-square)]()
+[![Track](https://img.shields.io/badge/track-novice-important?style=flat-square)]()
 
 </div>
 
@@ -17,7 +16,7 @@ Team OpenLarp - BrainHack TIL-AI 2026 by DSTA Singapore
 
 BrainHack TIL-AI 2026 is an annual multi-task AI competition run by DSTA Singapore. Teams submit Docker inference servers for five tasks scored live - ASR, CV, NLP, adversarial noise, and autonomous exploration - plus a surprise wargame task revealed on the day.
 
-Team OpenLarp placed **2nd in qualifiers** (combined 0.881) and finished finals with a score of **127.5** (AE raw 141.00 x 0.90 multiplier from ASR/CV/NLP real-time challenges).
+Team OpenLarp placed **2nd in qualifiers** (combined 0.881) and finished **5th in finals** with a score of **127.5** (AE raw 141.00 x 0.90 multiplier from ASR/CV/NLP real-time challenges).
 
 Full technical documentation, submitted source code, and iteration histories for all six tasks live in [**til-26-openlarp**](https://github.com/Openlarp-Brainhack/til-26-openlarp).
 
