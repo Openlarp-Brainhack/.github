@@ -61,7 +61,7 @@ Full technical documentation, submitted source code, and iteration histories for
 
 **Surprise:**
 - 20-player hex-grid wargame with 1 GiB RAM / 1 vCPU constraint - local inference impossible.
-- LLM-over-API (OpenRouter) was the only viable approach.
+- Used algo instead of LLM to prevent ourselves from being prompt injected.
 - Split-force doctrine: Infantry/Medic guard a 5-base economic foundation; strike units (Tank/Artillery/Fighter/Bomber) attack once 2+ bases are secure.
 
 ---
